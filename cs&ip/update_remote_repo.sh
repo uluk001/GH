@@ -3,5 +3,8 @@
 if git status | grep -q "Untracked files" || git status | grep -q "Changes not staged for commit"; then
     git add .
     echo "Все новые изменения внесены на стадию stage"
+    echo "enter a name for current commit"
+    read commit_name
+    git commit -m  "$commit_name" | git push origin
 fi
 
