@@ -47,5 +47,8 @@
 
 
 # Problem 5
+<img width="968" height="406" alt="image" src="https://github.com/user-attachments/assets/7a20e2d0-43c9-4eed-84f8-1fdd9cfa66c2" />
+
 
 # Problem 6
+<img width="461" height="723" alt="image" src="https://github.com/user-attachments/assets/a3710213-ba1b-44ba-916b-d767a8b9ea10" />
