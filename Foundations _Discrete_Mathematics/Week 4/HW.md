@@ -25,7 +25,8 @@
 # Problem 3
 <img width="613" height="173" alt="image" src="https://github.com/user-attachments/assets/84bd4b92-939f-4045-92dc-2ccf09d5d65f" />
 <hr>
-<img width="673" height="322" alt="image" src="https://github.com/user-attachments/assets/bb8ff3de-cff5-495c-b6ed-894d18fa2d56" />
+<img width="1109" height="307" alt="image" src="https://github.com/user-attachments/assets/fed428d4-2b9c-4795-898b-cb8ac2dfcbc1" />
+
 
 
 
