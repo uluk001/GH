@@ -1,3 +1,11 @@
 ![telegram-cloud-photo-size-2-5449655926702344878-y](https://github.com/user-attachments/assets/3cdd8e21-690c-48c3-931e-2025a0e83ed2)
 ![telegram-cloud-photo-size-2-5449655926702344877-y](https://github.com/user-attachments/assets/ba82adcd-1389-4f3f-a6ee-162b51c51052)
 ![telegram-cloud-photo-size-2-5449655926702344876-y](https://github.com/user-attachments/assets/e2a5fad5-c106-4438-a5da-0a1d22fbb528)
+
+![photo_2025-10-23 02 45 24](https://github.com/user-attachments/assets/6918c5e9-0f49-4263-8788-7f08b42ea157)
+![photo_2025-10-23 02 45 32](https://github.com/user-attachments/assets/b0213a33-4a64-43b1-ada3-0af2c565829a)
+![photo_2025-10-23 02 45 31](https://github.com/user-attachments/assets/38ef29c4-024d-4af1-be51-2b3f1add6436)
+![photo_2025-10-23 02 45 29](https://github.com/user-attachments/assets/80b18516-a3ec-4ab5-be59-01271445c78a)
+![photo_2025-10-23 02 45 27](https://github.com/user-attachments/assets/4639c553-85a3-4973-b85d-e6cbc859eca0)
+![photo_2025-10-23 02 45 36](https://github.com/user-attachments/assets/f9fc0d84-6590-4629-bffb-fca63e939adb)
+![photo_2025-10-23 02 45 35](https://github.com/user-attachments/assets/399f22dd-00bd-489d-af28-dfd3c1501b03)
