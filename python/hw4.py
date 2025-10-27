@@ -5,14 +5,16 @@
 
 import random
 
-secret_number = random.randint(1, 100)
+secret_number: int = random.randint(1, 100)
 attempts = 0
 
 while attempts < 5:
     guess = int(input("Guess the number between 1 and 100: "))
     attempts += 1
     if guess == secret_number:
-        print(f"Congratulations! You guessed the number in {attempts} attempts.")
+        print(
+            f"Congratulations! You guessed the number in {attempts} attempts."
+        )
         break
     elif guess < secret_number:
         print("Too low!")
