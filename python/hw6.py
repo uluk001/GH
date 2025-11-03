@@ -1,6 +1,6 @@
-def count_words(sentence):
-    word_count_dictionary = {}
-    words = sentence.lower().split()
+def count_words(sentence: str) -> dict:
+    word_count_dictionary: dict = {}
+    words: list[str] = sentence.lower().split()
 
     for word in words:
         if word in word_count_dictionary:
