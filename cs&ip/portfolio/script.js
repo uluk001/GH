@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function setupExperienceSwitcher() {
     const experiences = {
         mdigital: {
-            title: 'Backend Developer',
+            title: 'Backend Python Developer',
             achievements: [
                 'Built catalog modules with auto-ingest from API and Excel files; the MMarket catalog offers 70,000+ SKUs.',
                 'Created and implemented internal SDKs for the payment gateway, simplifying integration and reducing payment-related errors across projects (including publishing payler-sdk on PyPI).',
@@ -83,7 +83,7 @@ function setupExperienceSwitcher() {
             technologies: ['Python', 'FastAPI', 'PostgreSQL', 'Elasticsearch', 'Docker Swarm', 'GitLab CI/CD', 'Redis', 'Prometheus', 'Grafana', 'RabbitMQ']
         },
         launchist: {
-            title: 'Middle Python Developer',
+            title: 'Backend Python Developer',
             achievements: [
                 'Designed and implemented roles and permissions using Permify, centralizing and simplifying access control.',
                 'Implemented the outbox/inbox pattern with Kafka and DLQ, eliminating duplicate and lost events between services.',
