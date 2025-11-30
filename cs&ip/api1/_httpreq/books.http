@@ -1,0 +1,29 @@
+@hostname=http://localhost:8000
+
+### get books ###
+GET {{hostname}}/books/
+
+### create books ###
+POST {{hostname}}/books/
+Content-Type: application/json
+
+{
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald"
+}
+
+
+### get book by id ###
+GET {{hostname}}/books/3/
+
+### update book by id ###
+PUT {{hostname}}/books/3/
+Content-Type: application/json
+
+{
+  "title": "The Great Gatsby - Updated",
+  "author": "F. Scott Fitzgerald"
+}
+
+### delete book by id ###
+DELETE {{hostname}}/books/2/
