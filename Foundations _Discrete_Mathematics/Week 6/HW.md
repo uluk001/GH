@@ -9,4 +9,5 @@
 <hr>
 
 # Problem 3
-<img width="668" height="283" alt="image" src="https://github.com/user-attachments/assets/9412f729-1f7d-4640-bcac-d2245de92341" />
+<img width="452" height="688" alt="image" src="https://github.com/user-attachments/assets/1910af16-cc11-4278-919f-824d015476df" />
+
